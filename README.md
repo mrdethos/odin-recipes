@@ -1,2 +1,2 @@
 # odin-recipes
-Just a simple recipes site to practice my html skills
+A simple recipes using *html only*, created for The Odin Project.
